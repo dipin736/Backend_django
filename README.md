@@ -21,8 +21,7 @@ $  source venv/scripts/activate
 
 3. Clone this project
 
-$  git clone https://github.com/jobic10/student-management-using-django.git
-Then, Enter the project
+
 
 $  cd library_project
 4. Install Requirements from 'requirements.txt'
